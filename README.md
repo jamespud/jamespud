@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - I'm currently working how to learn more about computer science.
 - also, I'm try to understand physics theory in depth.
 ---
-![SpudKyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpudKyon&show_icons=true)
-![SpudKyon's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SpudKyon&langs_count=5&hide_border=true&exclude_repo&layout=compact)
+![SpudKyon's GitHub stats](https://github-stats-extended.vercel.app/api?username=SpudKyon&show_icons=true)
+![SpudKyon's Top Languages Card](https://github-stats-extended.vercel.app/api/top-langs/?username=SpudKyon&langs_count=5&hide_border=true&exclude_repo&layout=compact)
