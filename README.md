@@ -1,22 +1,49 @@
-### Hi 👋, I'm Spud.
+# Hi 👋
+
+Backend Engineer focused on **Distributed Systems**, **AI Infrastructure**, and **Reliable Backend Systems**.
+
+Currently building with Java & Go, and exploring LLM infrastructure and distributed computing.
+
 ---
-<!--
-**SpudKyon/SpudKyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building LLM-powered backend applications
+- Learning distributed systems & parallel computing
+- Exploring LLM serving infrastructure
 
-- I'm currently working how to learn more about computer science.
-- also, I'm try to understand physics theory in depth.
 ---
-![SpudKyon's GitHub stats](https://github-stats-extended.vercel.app/api?username=jamespud&show_icons=true)
-![SpudKyon's Top Languages Card](https://github-stats-extended.vercel.app/api/top-langs/?username=jamespud&langs_count=5&hide_border=true&exclude_repo&layout=compact)
+
+## 🛠 Tech Stack
+
+**Languages**
+`Java` `Go` `Python`
+
+**Backend**
+`Spring Boot` `Redis` `Kafka` `Netty`
+
+**Infrastructure**
+`Docker` `Linux`
+
+**AI**
+`LLM` `RAG`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=jamespud&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jamespud&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Links
+
+- 🌍 Blog → https://jamespud.github.io/
+- 💻 Repositories → https://github.com/jamespud?tab=repositories
+
+---
+
+> *Building reliable systems, not just working software.*
