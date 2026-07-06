@@ -17,15 +17,19 @@ Currently building with Java & Go, and exploring LLM infrastructure and distribu
 ## 🛠 Tech Stack
 
 **Languages**
+
 `Java` `Go` `Python`
 
 **Backend**
+
 `Spring Boot` `Redis` `Kafka` `Netty`
 
 **Infrastructure**
+
 `Docker` `Linux`
 
 **AI**
+
 `LLM` `RAG`
 
 ---
